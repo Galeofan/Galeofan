@@ -18,8 +18,8 @@
 ---
 
 ## 📊 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_ЛОГИН&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Galeofan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galeofan&layout=compact&theme=tokyonight)
 
 ---
 
