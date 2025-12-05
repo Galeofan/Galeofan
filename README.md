@@ -6,10 +6,10 @@
 ---
 
 ## 🛠️ Технологии
-![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
+![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blueviolet?logo=kotlin)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4-brightgreen?logo=springboot)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue?logo=postgresql)
 ![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
 ![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
